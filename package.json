@@ -1,0 +1,12 @@
+{
+  "name": "create-react-app-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest-puppeteer": "^4.2.0",
+    "puppeteer": "^1.18.1"
+  }
+}
