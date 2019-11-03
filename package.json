@@ -1,5 +1,5 @@
 {
-  "name": "create-react-app-sandbox",
+  "name": "website-e2e",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,5 +9,11 @@
     "jest": "^24.9.0",
     "jest-puppeteer": "^4.3.0",
     "puppeteer": "^2.0.0"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.21",
+    "@types/jest-environment-puppeteer": "^4.3.1",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
   }
 }
